@@ -11,3 +11,6 @@ For Front-end Side:
  4. Write to command line "npm run serve" and enter. 
  5. Open the giving link in your terminal. Like "http://localhost:8081"
  6. Finally you should see the Kanban Board.
+
+
+![Screenshot 1](/screenshots/ss1.jpg)
