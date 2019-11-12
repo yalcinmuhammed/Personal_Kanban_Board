@@ -5,7 +5,7 @@ For Back-end Side:
 Run the back-end side in your editor and copy the server url. Like "http://localhost:8080" and add the "/api" slug.
 
 For Front-end Side:
- 1. Open fron-end folder 
+ 1. Open front-end folder 
  2. Open config.js file and be sure the API_URL is equal "http://localhost:8080/api".
  3. Write to command line "npm install" and enter
  4. Write to command line "npm run serve" and enter. 
