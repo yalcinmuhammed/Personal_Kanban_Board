@@ -10,6 +10,7 @@ npm install
 ```
 npm run serve
 ```
+![Screenshot - 2](/screenshots/ss2.jpg)
 
 ### Compiles and minifies for production
 ```
