@@ -6,7 +6,7 @@ Run the back-end side in your editor and copy the server url. Like "http://local
 
 For Front-end Side:
  1. Open front-end folder 
- 2. Open config.js file and be sure the API_URL is equal "http://localhost:8080/api".
+ 2. Open front-end/src/config.js file and be sure the API_URL is equal "http://localhost:8080/api".
  3. Write to command line "npm install" and enter
  4. Write to command line "npm run serve" and enter. 
  5. Open the giving link in your terminal. Like "http://localhost:8081"
